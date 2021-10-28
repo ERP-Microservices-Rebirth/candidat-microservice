@@ -27,4 +27,5 @@ spring:
   data:
     mongodb:
       uri: mongodb+srv://admin:admin@cluster1.h0jm2.mongodb.net/candidat-microservice?retryWrites=true&w=majority
-      
+  profile: heroku
+     
